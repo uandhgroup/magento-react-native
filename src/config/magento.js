@@ -1,13 +1,13 @@
 export const magentoOptions = {
-  url: 'http://mage2.local/',
+  url: 'https://uandh.in/shop/',
   authentication: {
     login: {
       type: 'admin',
-      username: 'dev',
-      password: 'q1w2e3r4'
+      username: 'udaychudasama',
+      password: 'Ud9909900019!'
     },
     integration: {
-      access_token: 'cdlodltsj3wfwd1jrx08q9nfprb5idq4'
+      access_token: '8n1p8qmdroh6epm2xo8hpadq2clc8h4s'
     }
   }
 };
